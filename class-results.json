@@ -1,0 +1,14 @@
+[{
+    "name": "allan",
+    "total": 90,
+    "position": 3,
+    "grades": {
+        "english": "A",
+        "math": "C"
+    }
+}]
+
+// we  stream our data into an aggregated array [{std:std, math:math, eng: eng,total: total}
+                                                  {std:allan, math:10, eng:20 tota:30}
+                                                  {std:bet,  math:23, eng:40, total:63} ]                 ]
+// we write a function that grades data if 
